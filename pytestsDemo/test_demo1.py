@@ -8,6 +8,7 @@ import pytest
 @pytest.mark.smoke
 def test_firstProgram(setup):
     print("Hello")
+    print("Git_ckeck")
 
 
 @pytest.mark.xfail
