@@ -9,6 +9,7 @@ import pytest
 def test_firstProgram(setup):
     print("Hello")
     print("Git_ckeck")
+    print("Akshay");
 
 
 @pytest.mark.xfail
